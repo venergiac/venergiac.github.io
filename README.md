@@ -1,2 +1,2 @@
-# venergiac.github.io
+# venergiac
 Giacomo Veneri Home Page
