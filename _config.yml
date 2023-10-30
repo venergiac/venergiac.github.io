@@ -1,5 +1,8 @@
 theme: jekyll-theme-minimal
 title: Giacomo Veneri's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+
 twitter_username: venergiac
 github_username:  venergiac
