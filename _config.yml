@@ -33,10 +33,27 @@ stackoverflow_id: venergiac
 orcid_id: 0000-0001-9118-8982
 medium_username: venergiac
 
+
+repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: dark
+
 # Build settings
 theme: minima
+# Plug-ins
 plugins:
-  - jekyll-feed
+  - jekyll-email-protect
+  - jekyll/scholar
+  - jekyll-sitemap
+  - jekyll-twitter-plugin
+  - jemoji
+
+# -----------------------------------------------------------------------------
+# RSS Feed
+# -----------------------------------------------------------------------------
+# will use title and url fields
+# Take a look to https://github.com/jekyll/jekyll-feed for more customization
+
+rss_icon: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
