@@ -27,3 +27,6 @@ The design process of centrifugal compressors requires applying an optimization 
   year={2023}
 }
 {% endhighlight %}
+
+## More
+[Scholar](https://scholar.google.it/citations?user=B40SHWAAAAAJ&hl=it)
