@@ -21,7 +21,7 @@
 title: Giacomo Veneri
 email: giacomo.veneri@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Giacomo veneri web site. Code, Publications and Ideas.
+  Giacomo Veneri (MEng, PhD) web site. Code, Publications and Ideas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: venergiac
