@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hallucinations on LLM detection"
-date:   2023-03-01 13:46:14 +0100
+date:   2023-11-01 13:46:14 +0100
 categories: code
 ---
 
@@ -32,6 +32,7 @@ from nltk.tag import pos_tag
 
 import nltk
 nltk.download('averaged_perceptron_tagger')
+nltk.download('punkt')
 
 def check_hallucination_by_NE(source_text, generated_text, verbose=False, pattern = 'NP: {<DT>?<JJ>*<NN>}', acceptable_ne=['NNP']):
 
@@ -75,6 +76,5 @@ def check_hallucination_by_NE(source_text, generated_text, verbose=False, patter
 and now try it
 
 {% highlight python %}
-%time
 check_hallucination_by_NE("President Biden was born USA", "President Biden was born France", verbose=True)
 {% endhighlight %}
