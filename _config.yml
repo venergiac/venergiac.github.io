@@ -26,6 +26,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: venergiac
 github_username:  venergiac
+research_gate_profile: Giacomo-Veneri
+scopus_id: 36125776100
+dblp_url: https://dblp.org/pid/95/9152.html
+stackoverflow_id: venergiac
+orcid_id: 0000-0001-9118-8982
+medium_username: @venergiac
 
 # Build settings
 theme: minima
