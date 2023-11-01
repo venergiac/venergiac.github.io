@@ -119,7 +119,7 @@ Generative AI, Retrieval Augmented Generation (RAG), and Langchain
 ### Self query
 
 Use self query:
-![Self Query](/images/selfquery.png)
+![Self Query](/images/selfquery2.png)
 
 #### Fine Tune on High performance data
 Perform fine tuning on high perf data.
