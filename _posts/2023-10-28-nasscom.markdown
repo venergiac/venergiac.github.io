@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "IET AI TEAM Baker Hughes NASSCOM winner"
+date:   2023-10-28 11:46:14 +0100
+categories: award
+---
+Winner!
+
+![NASSCOM](/nasscom.jpg)
