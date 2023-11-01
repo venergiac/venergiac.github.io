@@ -57,6 +57,6 @@ If you’re an IoT architect, developer, or stakeholder working with architectur
 
 This book is for developers and delivery managers who have some experience with Maven and Java, but want to extend their knowledge to automate the building process, thereby reducing human errors.
 
-![Maven Build Customization](/book_maven.png "Hands-On Industrial Internet of Things")
+![Maven Build Customization](/book_maven.png "Maven Build Customization")
 
 [get it](https://amzn.eu/d/izTIwn4)
