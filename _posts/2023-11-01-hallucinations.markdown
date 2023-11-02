@@ -94,7 +94,7 @@ Llama Index provides in-built tools and methods to build production-grade RAG-ba
 
 ### Simpler RAG
 
-### Langchian
+### Langchain
 Besides, in a domain-specific QA app, only a few documents contain relevant context per query. So, we need a unified system that streamlines document extraction to answer generation and all the processes between them. This process is called Retrieval Augmented Generation. 
 
 
