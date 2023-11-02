@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning to Identify Drilling Defects in Turbine Blades with Single Stage Detectors published at NEURIPS"
+title:  "Learning to Identify Drilling Defects in Turbine Blades with Single Stage Detectors published @ NEURIPS"
 date:   2020-12-20 13:46:14 +0100
 categories: publication
 ---

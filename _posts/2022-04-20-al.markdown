@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Published at ICML Deep Surrogate of Modular Multi Pump using Active Learning"
+title:  "Deep Surrogate of Modular Multi Pump using Active Learning @ ICML 2022"
 date:   2022-04-20 20:46:14 +0100
 categories: code
 ---
