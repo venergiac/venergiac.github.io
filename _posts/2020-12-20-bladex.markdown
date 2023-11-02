@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Learning to Identify Drilling Defects in Turbine Blades with Single Stage Detectors published at NEURIPS"
+date:   2020-12-20 13:46:14 +0100
+categories: publication
+---
+
+
+Learning to Identify Drilling Defects in Turbine Blades with Single Stage Detectors
+* Panizza Andrea, Szymon Tomasz Stefanek, Stefano Melacci, Veneri Giacomo, Marco Gori *
+* Proceedings of NeurIPS 2020 Workshop on Machine Learning for Engineering Modeling, Simulation and Design *
+
+Nondestructive testing (NDT) is widely applied to defect identification of turbine components during manufacturing and operation. Operational efficiency is key for gas turbine OEM (Original Equipment Manufacturers). Automating the inspection process as much as possible, while minimizing the uncertainties involved, is thus crucial. We propose a model based on RetinaNet to identify drilling defects in X-ray images of turbine blades. The application is challenging due to the large image resolutions in which defects are very small and hardly captured by the commonly used anchor sizes, and also due to the small size of the available dataset. As a matter of fact, all these issues are pretty common in the application of Deep Learning-based object detection models to industrial defect data. We overcome such issues using open source models, splitting the input images into tiles and scaling them up, applying heavy data augmentation, and optimizing the anchor size and aspect ratios with a differential evolution solver. We validate the model with 3-fold cross-validation, showing a very high accuracy in identifying images with defects. We also define a set of best practices which can help other practitioners overcome similar challenges.
+
+{% highlight bibtex %}
+
+@article{panizzalearning,
+  title={Learning to Identify Drilling Defects in Turbine Blades with Single Stage Detectors},
+  author={Panizza, Andrea and Stefanek, Szymon Tomasz and Melacci, Stefano and Veneri, Giacomo and Gori, Marco}
+  booktitle={Proceedings of NeurIPS 2020 Workshop on Machine Learning for Engineering Modeling, Simulation and Design},
+  year={2020}
+
+
+}
+
+{% endhighlight %}

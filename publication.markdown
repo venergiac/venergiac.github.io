@@ -67,5 +67,87 @@ Also see anomalies definition from [Anomaly Detection Definition](https://jugsi.
 {% endhighlight %}
 
 
+## 2022
+
+### Document Layout Analysis with Variational Autoencoders: An Industrial Application
+* Ali Youssef, Gabriele Valvano, Giacomo Veneri *
+* ISMIS 2022. Lecture Notes in Computer Science *
+
+We present a novel method for Document Layout Analysis that detects documents that are not compliant with a given template. The major challenge we solve is dealing with a highly unbalanced dataset with only a few, hard-to-distinguish, non-compliant documents. Our model learns to detect inadequate documents based on localised non-compliant characteristics, including stamps, handwritten text, and misplaced signatures. Nevertheless, the model must not report documents containing other artefacts such as amendments or notes, which we deem acceptable. We address these challenges via generative modelling, using anomaly detection techniques to validate document layout. In particular, we first let the model learn the compliant document distribution. Then, we detect and report out-of-distribution samples for their automated rejection. In the paper, we investigate and compare two major approaches to anomaly …
+
+{% highlight bibtex %}
+@inproceedings{youssef2022document,
+  title={Document Layout Analysis with Variational Autoencoders: An Industrial Application},
+  author={Youssef, Ali and Valvano, Gabriele and Veneri, Giacomo},
+  booktitle={International Symposium on Methodologies for Intelligent Systems},
+  pages={477--486},
+  year={2022}
+}
+{% endhighlight %}
+
+### Deep Surrogate of Modular Multi Pump using Active Learning
+
+* Malathi Murugesan, Kanika Goyal, Laure Barriere, Maura Pasquotti, Giacomo Veneri, Giovanni De Magistris *
+
+* Adaptive Experimental Design and Active Learning in the Real World - ICML 2022 *
+
+[Document](/documents/malathi2022.pdf)
+
+Due to the high cost and reliability of sensors, the designers of a pump reduce the needed number of sensors for the estimation of the feasible operating point as much as possible. The major challenge to obtain a good estimation is the low amount of data available. Using this amount of data, the performance of the estimation method is not enough to satisfy the client requests. To solve this problem of scarcity of data, getting high quality data is important to obtain a good estimation. Based on these considerations, we develop an active learning framework for estimating the operating point of a Modular Multi Pump used in energy field. In particular we focus on the estimation of the surge distance. We apply Active learning to estimate the surge distance with minimal dataset. Results report that active learning is a valuable technique also for real application.
+
+![algorithm](/images/al.png)
+
+{% highlight bibtex %}
+@article{murugesandeep,
+  title={Deep Surrogate of Modular Multi Pump using Active Learning},
+  author={Murugesan, Malathi and Goyal, Kanika and Barriere, Laure and Pasquotti, Maura and Veneri, Giacomo and De Magistris, Giovanni}
+  booktitle={Adaptive Experimental Design and Active Learning in the Real World - ICML 2022},
+  year={2022}
+}
+{% endhighlight %}
+
+## 2021
+
+
+### DANNTe: a case study of a turbo-machinery sensor virtualization under domain shift
+* Strazzera, Luca and Gori, Valentina and Veneri, Giacomo *
+
+[Document](/documents/strazzera2022.pdf)
+
+We propose an adversarial learning method to tackle a Domain Adaptation (DA) time series regression task (DANNTe). The regression aims at building a virtual copy of a sensor installed on a gas turbine, to be used in place of the physical sensor which can be missing in certain situations. Our DA approach is to search for a domain-invariant representation of the features. The learner has access to both a labelled source dataset and an unlabeled target dataset (unsupervised DA) and is trained on both, exploiting the minmax game between a task regressor and a domain classifier Neural Networks. Both models share the same feature representation, learnt by a feature extractor. This work is based on the results published by Ganin et al. arXiv:1505.07818; indeed, we present an extension suitable to time series applications. We report a significant improvement in regression performance, compared to the baseline model trained on the source domain only.
+
+![dannte](/images/dannte.png)
+
+
+{% highlight bibtex %}
+@inproceedings{strazzera2021dannte,
+  title={DANNTe: a case study of a turbo-machinery sensor virtualization under domain shift},
+  author={Strazzera, Luca and Gori, Valentina and Veneri, Giacomo},
+  booktitle={NeurIPS 2021 Workshop on Distribution Shifts: Connecting Methods and Applications},
+  year={2021}
+}
+{% endhighlight %}
+
+## 2020
+
+### Learning to Identify Drilling Defects in Turbine Blades with Single Stage Detectors
+* Panizza Andrea, Szymon Tomasz Stefanek, Stefano Melacci, Veneri Giacomo, Marco Gori *
+* Proceedings of NeurIPS 2020 Workshop on Machine Learning for Engineering Modeling, Simulation and Design *
+
+Nondestructive testing (NDT) is widely applied to defect identification of turbine components during manufacturing and operation. Operational efficiency is key for gas turbine OEM (Original Equipment Manufacturers). Automating the inspection process as much as possible, while minimizing the uncertainties involved, is thus crucial. We propose a model based on RetinaNet to identify drilling defects in X-ray images of turbine blades. The application is challenging due to the large image resolutions in which defects are very small and hardly captured by the commonly used anchor sizes, and also due to the small size of the available dataset. As a matter of fact, all these issues are pretty common in the application of Deep Learning-based object detection models to industrial defect data. We overcome such issues using open source models, splitting the input images into tiles and scaling them up, applying heavy data augmentation, and optimizing the anchor size and aspect ratios with a differential evolution solver. We validate the model with 3-fold cross-validation, showing a very high accuracy in identifying images with defects. We also define a set of best practices which can help other practitioners overcome similar challenges.
+
+{% highlight bibtex %}
+
+@article{panizzalearning,
+  title={Learning to Identify Drilling Defects in Turbine Blades with Single Stage Detectors},
+  author={Panizza, Andrea and Stefanek, Szymon Tomasz and Melacci, Stefano and Veneri, Giacomo and Gori, Marco}
+  booktitle={Proceedings of NeurIPS 2020 Workshop on Machine Learning for Engineering Modeling, Simulation and Design},
+  year={2020}
+
+
+}
+
+{% endhighlight %}
+
 ## More
 [Scholar](https://scholar.google.it/citations?user=B40SHWAAAAAJ&hl=it)

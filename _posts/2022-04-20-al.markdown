@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Published at ICML Deep Surrogate of Modular Multi Pump using Active Learning"
+date:   2022-04-20 20:46:14 +0100
+categories: code
+---
+
+### Deep Surrogate of Modular Multi Pump using Active Learning
+
+* Malathi Murugesan, Kanika Goyal, Laure Barriere, Maura Pasquotti, Giacomo Veneri, Giovanni De Magistris *
+
+* Adaptive Experimental Design and Active Learning in the Real World - ICML 2022 *
+
+[Document](/documents/malathi2022.pdf)
+
+Due to the high cost and reliability of sensors, the designers of a pump reduce the needed number of sensors for the estimation of the feasible operating point as much as possible. The major challenge to obtain a good estimation is the low amount of data available. Using this amount of data, the performance of the estimation method is not enough to satisfy the client requests. To solve this problem of scarcity of data, getting high quality data is important to obtain a good estimation. Based on these considerations, we develop an active learning framework for estimating the operating point of a Modular Multi Pump used in energy field. In particular we focus on the estimation of the surge distance. We apply Active learning to estimate the surge distance with minimal dataset. Results report that active learning is a valuable technique also for real application.
+
+![algorithm](/images/al.png)
+
+{% highlight bibtex %}
+@article{murugesandeep,
+  title={Deep Surrogate of Modular Multi Pump using Active Learning},
+  author={Murugesan, Malathi and Goyal, Kanika and Barriere, Laure and Pasquotti, Maura and Veneri, Giacomo and De Magistris, Giovanni}
+  booktitle={Adaptive Experimental Design and Active Learning in the Real World - ICML 2022},
+  year={2022}
+}
+{% endhighlight %}
