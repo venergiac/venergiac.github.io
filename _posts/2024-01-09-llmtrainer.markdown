@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Train LLAMA-2 on a Small GPU"
-date:   2024-01-10 00:00:00 +0100
+date:   2024-01-09 00:00:00 +0100
 categories: code
 ---
 
