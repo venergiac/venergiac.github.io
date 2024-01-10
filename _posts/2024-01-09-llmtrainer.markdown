@@ -20,17 +20,16 @@ The 4-bit quantization does not hurt model performance.
 In this post we use 4bit quantization
 
 
+	pip install bitsandbytes
 
-   pip install bitsandbytes
+	...
 
-   ...
-
-   quant_config = BitsAndBytesConfig(
+	quant_config = BitsAndBytesConfig(
 		load_in_4bit=True,
 		bnb_4bit_quant_type="nf4",
 		bnb_4bit_compute_dtype=getattr(torch, "float16"),
 		bnb_4bit_use_double_quant=False,
-   )
+	)
    
    
    
