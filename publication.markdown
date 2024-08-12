@@ -6,6 +6,26 @@ permalink: /publication/
 
 ## 2024
 
+### Leveraging the Regularizing Effect of Mixing Industrial and Open Source Data to Prevent Overfitting of LLM Fine Tuning
+
+*International Joint Conference on Artificial Intelligence 2024 Workshop on AI Governance: Alignment, Morality, and Law*
+
+[Document](/documents/10_Leveraging_the_Regularizing.pdf)
+
+Language models have demonstrated important advancements across various natural language processing (NLP) tasks. However, the availability of high-quality and domain-specific data remains a challenge for training these models, particularly in industry-specific applications. In this paper, we propose a methodology to fine-tune a large language model (LLM) using a mixture of private company data and open-source data. Our empirical investigation reveals that combining private and open-source data during the fine-tuning process leads to superior performance, mitigating the risk of overfitting that can occur when training solely on narrow, domain-specific datasets. We observed that incorporating open-source data alongside the private data helps to reduce the distribution shift between the training and test data, effectively acting as a regularizer and enhancing the model's ability to generalize. Furthermore, we compare the divergence between the private and open-source datasets with the test loss of the fine-tuned model. Our results suggest a correlation between reduced data divergence and improved model performance, indicating that carefully selecting and curating the dataset mixture can be a crucial step in preventing overfitting and ensuring the model's effective adaptation to industry-specific use cases. This study provides a practical solution for industry-specific adaptation of LLMs, demonstrating how the strategic blending of private and open-source data can unlock the full potential of these models while addressing critical concerns around data privacy and model reliability in real-world applications.
+
+
+{% highlight bibtex %}
+@inproceedings{
+jebali2024leveraging,
+title={Leveraging the Regularizing Effect of Mixing Industrial and Open Source Data to Prevent Overfitting of {LLM} Fine Tuning},
+author={Mohamed Salah Jebali and Anna Valanzano and Malathi Murugesan and Giacomo Veneri and Giovanni De Magistris},
+booktitle={International Joint Conference on Artificial Intelligence 2024 Workshop on AI Governance: Alignment, Morality, and Law},
+year={2024},
+url={https://openreview.net/forum?id=zaYwh5pPPO}
+}
+{% endhighlight %}
+
 ### Controllable Image Synthesis of Industrial Data Using Stable Diffusion
 
 *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision*
