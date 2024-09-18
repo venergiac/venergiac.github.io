@@ -12,7 +12,7 @@ Giacomo Veneri (Siena 17/11/1973) graduated in Telecommunications Engineering in
 [scholar](https://scholar.google.it/citations?user=B40SHWAAAAAJ&hl=it)
 
 ## Blog
-[jugsi](https://venergiac.blogspot.com/)
+[venergiac](https://venergiac.blogspot.com/)
 
 ## GitHub
 [venergiac](https://github.com/venergiac)
