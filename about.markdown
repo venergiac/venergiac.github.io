@@ -4,7 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Giacomo Veneri (Siena 17/11/1973) graduated in Telecommunications Engineering in 1999. From 1999 to 2004 he collaborated with the University of Siena as an expert of Human Computer Interaction in the context of Multimedia and Bioengineering. Since 2004 to 2006 he collaborated with major international financial institutions in the field of trading and in information visualization. Since 2006 to 2012 Technical Director and Director of the research laboratory (accredited MIUR) of [Etruria Innovation SPA]. PhD graduated at the Department of Neurological Sciences, University of Siena. It deals with human computer interaction and human mechanisms that underlie human-machine interaction. He is Java 7 OCA Associated certified, Predix certified, GreenBelt certified, SCRUM certified, SAFE certified, NVIDIA certified. Author of Maven Build Customization and Hands-On Industrial Internet of Things. Director of Baker Hughes IET Artificial Intelligence Specialists Team
+Giacomo Veneri, born on November 17, 1973, in Siena, Italy, is a prominent figure in the fields of Telecommunications Engineering and Artificial Intelligence. He completed his Master’s degree in Telecommunications Engineering in 1999 and earned a PhD in 2012 from the University of Siena. Currently, Giacomo serves as the Director of AI Specialists at Baker Hughes, where he leverages over 25 years of experience in Industrial IoT and AI applications. His work often focuses on machine learning, signal processing, and computer-assisted diagnosis, particularly within the context of neuroscience. 
+
+In addition to his corporate role, Veneri has contributed to academia through various publications and collaborations. He has been involved in research related to sensor virtualization for anomaly detection in turbo-machinery and has participated in several projects aimed at advancing AI technologies. 
+
+Giacomo is also an author and has written works on topics such as industrial IoT, showcasing his expertise and commitment to advancing technology in practical applications [books](book). His contributions have garnered recognition within both industry and academic circles.
+
 
 ![Giacomo Veneri](/giacomoveneri.jpeg)
 
