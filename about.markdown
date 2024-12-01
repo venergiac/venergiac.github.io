@@ -8,7 +8,7 @@ Giacomo Veneri, born on November 17, 1973, in Siena, Italy, is a prominent figur
 
 In addition to his corporate role, Veneri has contributed to academia through various publications and collaborations. He has been involved in research related to sensor virtualization for anomaly detection in turbo-machinery and has participated in several projects aimed at advancing AI technologies. 
 
-Giacomo is also an author and has written works on topics such as industrial IoT, showcasing his expertise and commitment to advancing technology in practical applications [books](book). His contributions have garnered recognition within both industry and academic circles.
+Giacomo is also an author and has written works on topics such as industrial IoT, showcasing his expertise and commitment to advancing technology in practical applications [books](../book). His contributions have garnered recognition within both industry and academic circles.
 
 
 ![Giacomo Veneri](/giacomoveneri.jpeg)
