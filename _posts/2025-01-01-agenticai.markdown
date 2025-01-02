@@ -34,8 +34,7 @@ An advanced framework is LangGraph
 Autogen is an open-source framework (by Microsoft Research) designed for creating agentic systems. This framework allows you to build multi-agent collaborations and LLM workflows efficiently.
 
 Below the courses:
-1. [AI Agentic Design Patterns with AutoGen by Coursera & Microsoft]
-(https://www.coursera.org/projects/ai-agentic-design-patterns-with-autogen)
+1. [AI Agentic Design Patterns with AutoGen by Coursera & Microsoft](https://www.coursera.org/projects/ai-agentic-design-patterns-with-autogen)
 
 
 # crewAI
