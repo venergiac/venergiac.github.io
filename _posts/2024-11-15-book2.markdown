@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hands-On Industrial Internet of Things"
+title:  "Hands-On Industrial Internet of Things 2nd edition"
 date:   2024-11-15 00:00:00 +0100
 categories: code
 ---
