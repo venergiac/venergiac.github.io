@@ -21,7 +21,7 @@ Written by IIoT and AI experts, as well as renowned authors, this book helps you
 
 By the end of this book, you'll have achieved a professional level of expertise in the cloud, IoT, and AI, and be able to build more robust, efficient, and reliable IoT infrastructure for your industry.
 
-<img src="/book2.png" alt="Hands-On Industrial Internet of Things - 2nd Edition" width="400px">
+<img src="/book2.jpg" alt="Hands-On Industrial Internet of Things - 2nd Edition" width="400px">
 
 
 :star: :star: :star: :star: :star:
