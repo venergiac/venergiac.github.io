@@ -71,6 +71,10 @@ Below the courses:
 
 # LlamaIndex
 
+A very useful example how to parse Invoice and send payment [Invoice to Payment](https://github.com/run-llama/llamacloud-demo/blob/main/examples/document_workflows/invoice_sku_product_catalog_matching/invoice_sku_product_catalog_matching.ipynb)
+
+
+
 Below the courses:
 1. [Building & Evaluating Advanced RAG Apps by DeepLearning.AI, LlamaIndex & TruEra](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
 
