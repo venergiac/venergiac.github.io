@@ -21,7 +21,7 @@ Written by IIoT and AI experts, as well as renowned authors, this book helps you
 
 By the end of this book, you'll have achieved a professional level of expertise in the cloud, IoT, and AI, and be able to build more robust, efficient, and reliable IoT infrastructure for your industry.
 
-![Hands-On Industrial Internet of Things - 2nd Edition](/book2.jpg "Hands-On Industrial Internet of Things - 2nd Edition")
+![Hands-On Industrial Internet of Things - 2nd Edition](/book2.jpg "Hands-On Industrial Internet of Things - 2nd Edition"){ width=400px }
 
 [get it](https://a.co/d/9UG7pd0)
 
@@ -37,7 +37,7 @@ As you progress through the chapters, you’ll gain hands-on experience in using
 
 By the end of this book, you will have mastered the features of Industry 4.0 and be able to build stronger, faster, and more reliable IoT infrastructure in your Industry.
 
-![Hands-On Industrial Internet of Things](/book.png "Hands-On Industrial Internet of Things")
+![Hands-On Industrial Internet of Things](/book.png "Hands-On Industrial Internet of Things"){ width=400px }
 
 [get it](https://amzn.eu/d/6kUUkTy)
 
@@ -80,6 +80,6 @@ If you’re an IoT architect, developer, or stakeholder working with architectur
 
 This book is for developers and delivery managers who have some experience with Maven and Java, but want to extend their knowledge to automate the building process, thereby reducing human errors.
 
-![Maven Build Customization](/book_maven_1.png "Maven Build Customization")
+![Maven Build Customization](/book_maven_1.png "Maven Build Customization"){ width=400px }
 
 [get it](https://amzn.eu/d/izTIwn4)
