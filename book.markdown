@@ -23,6 +23,9 @@ By the end of this book, you'll have achieved a professional level of expertise 
 
 <img src="/book2.png" alt="Hands-On Industrial Internet of Things - 2nd Edition" width="400px">
 
+
+:star: :star: :star: :star: :star:
+
 [get it](https://a.co/d/9UG7pd0)
 
 
@@ -38,6 +41,8 @@ As you progress through the chapters, you’ll gain hands-on experience in using
 By the end of this book, you will have mastered the features of Industry 4.0 and be able to build stronger, faster, and more reliable IoT infrastructure in your Industry.
 
 <img src="/book.png" alt="Hands-On Industrial Internet of Things" width="400px">
+
+:star: :star: :star: :star:
 
 [get it](https://amzn.eu/d/6kUUkTy)
 
