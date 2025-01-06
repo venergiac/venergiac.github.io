@@ -18,10 +18,35 @@ Yes, you can definitely build AI agents from scratch! Below the course:
 
 LangChain, with its impressive 90k GitHub stars, stands as the leading framework for developing LLM-based applications. Its extensive suite of tools and components enables the creation of comprehensive AI solutions using a wide range of LLMs. Central to LangChain's functionality are its agents. These autonomous or semi-autonomous tools can execute tasks, make decisions, and interact with various tools and APIs, marking a significant advancement in automating complex workflows with LLMs.
 
-Below the courses:
-1. [Fundamentals of AI Agents Using RAG and LangChain by Coursera & IBM](https://www.coursera.org/learn/fundamentals-of-ai-agents-using-rag-and-langchain)
+The following code starts an agent with 2 tools and ask question about book wrote by me:
 
-2. [LangChain for LLM Application Development by DeepLearning.AI & LangChain](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+```python
+!pip install arxiv
+
+from langchain.agents.agent_toolkits import create_python_agent
+from langchain.agents import load_tools, initialize_agent
+from langchain.agents import AgentType
+from langchain.chat_models import ChatOpenAI
+
+llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo")
+tools = load_tools(["llm-math","wikipedia","arxiv"], llm=llm)
+
+agent= initialize_agent(
+    tools, 
+    llm, 
+    agent=AgentType.CHAT_ZERO_SHOT_REACT_DESCRIPTION,
+    handle_parsing_errors=True,
+    verbose = True)
+
+question = "Giacomo Veneri is an italian author, which article he wrote?"
+result = agent(question) 
+```
+Below the courses:
+
+
+1. [LangChain for LLM Application Development by DeepLearning.AI & LangChain](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+
+2. [Fundamentals of AI Agents Using RAG and LangChain by Coursera & IBM](https://www.coursera.org/learn/fundamentals-of-ai-agents-using-rag-and-langchain)
 
 ## ..or LangGraph
 
