@@ -23,12 +23,13 @@ By the end of this book, you'll have achieved a professional level of expertise 
 
 <img src="/book2.jpg" alt="Hands-On Industrial Internet of Things - 2nd Edition" width="400px">
 
-
 :star: :star: :star: :star: :star:
 
 [get it](https://a.co/d/9UG7pd0)
 
+### Amazon score
 
+5.0 stars
 
 ## Hands-On Industrial Internet of Things: Create a powerful Industrial IoT infrastructure using Industry 4.0 
 
