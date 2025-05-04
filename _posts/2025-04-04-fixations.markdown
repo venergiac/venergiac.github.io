@@ -5,7 +5,7 @@ date:   2025-04-04 00:00:00 +0100
 categories: article
 ---
 
-![fixations xgboost](fixations_xgboost.png)
+![fixations xgboost](/images/fixations_xgboost.png)
 
 Eye movements are an essential part of human vision as they drive the fovea and, consequently, visual attention toward a region of interest in the space. The fixations and saccades are the main features of eye movements; fixations are samples of points around a centre point (centroid) with long duration (≫50 ms); these eye fixations are intercalated by rapid eye jumps (saccade), which can be defined as rapid eye movement with velocities that may be higher than 500 deg/s and duration about 20–40 ms [veneri2011].
 
