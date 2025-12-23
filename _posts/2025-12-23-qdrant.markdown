@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Using OLLAMA with vector db QDRANT for the best privacy of your data - implementing a simple RAG"
+date:   2025-12-23 00:00:00 +0100
+categories: article
+---
+
+Qdrant is an open-source, high-performance vector database and search engine designed for AI applications, allowing you to efficiently store, search, and manage high-dimensional vectors (embeddings) for tasks like similarity search, recommendation systems, and semantic matching. It's built for large-scale AI, offering fast, reliable, production-ready services with advanced filtering on metadata (payloads), making unstructured data searchable and usable in complex AI solutions.
+
+Ollama is an open-source tool that simplifies running large language models (LLMs) like Llama 2, Mistral, and others directly on your local computer (Mac, Windows, Linux). It acts as a convenient command-line interface (CLI) and API, letting you easily download, manage, and interact with powerful AI models offline, ensuring privacy, reducing latency, and giving you full control over your data without relying on cloud services.
+
+Below how to build a simple RAG System with Qdrant and Ollama [github](https://github.com/venergiac/RAG_qdrant_ollama)
+
