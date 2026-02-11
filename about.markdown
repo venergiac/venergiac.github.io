@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Giacomo Veneri, born on November 17, 1973, in Siena, Italy, is a prominent figure in the fields of Telecommunications Engineering and Artificial Intelligence. He completed his Master’s degree in Telecommunications Engineering in 1999 and earned a PhD in 2012 from the University of Siena. Currently, Giacomo serves as the Director of AI Specialists at Baker Hughes, where he leverages over 25 years of experience in Industrial IoT and AI applications. His work often focuses on machine learning, signal processing, and computer-assisted diagnosis, particularly within the context of neuroscience. 
+Giacomo Veneri, born on November 17, 1973, in Siena, Italy, is a recognized expert in Telecommunications Engineering and Artificial Intelligence. He earned his Master’s degree in Telecommunications Engineering in 1999 and completed a PhD in 2012 at the University of Siena.
+Giacomo currently serves as Director of AI Specialists at Baker Hughes, bringing more than 26 years of experience in Industrial IoT and AI-driven industrial applications. His professional focus spans machine learning, sensor virtualization, anomaly detection, signal processing, and Physical AI, with a strong emphasis on large-scale IoT systems.
+Alongside his industry leadership, Giacomo has maintained an active academic profile through publications, research collaborations, and projects at the intersection of Artificial Intelligence and Neuroscience. His work contributes to advancing both theoretical understanding and real-world deployment of AI technologies.
+An accomplished author, Giacomo has written extensively on industrial IoT and applied AI, demonstrating a strong commitment to translating advanced research into practical, impactful solutions [books](../book). His contributions are widely recognized across both industrial and academic communities.
 
-In addition to his corporate role, Veneri has contributed to academia through various publications and collaborations. He has been involved in research related to sensor virtualization for anomaly detection in turbo-machinery and has participated in several projects aimed at advancing AI technologies. 
-
-Giacomo is also an author and has written works on topics such as industrial IoT, showcasing his expertise and commitment to advancing technology in practical applications [books](../book). His contributions have garnered recognition within both industry and academic circles.
 
 
 ![Giacomo Veneri](/giacomoveneri.jpeg)
@@ -28,3 +28,5 @@ Giacomo is also an author and has written works on topics such as industrial IoT
 ## Research Gate
 [giacomoveneri](https://www.researchgate.net/profile/Giacomo-Veneri)
 
+## Wikipedia
+[giacomoveneri](https://it.wikipedia.org/wiki/Giacomo_Veneri)
