@@ -11,7 +11,13 @@ Giacomo currently serves as Director of AI at Baker Hughes, bringing more than 2
 Alongside his industry leadership, Giacomo has maintained an active academic profile through publications, research collaborations, and projects at the intersection of Artificial Intelligence and Neuroscience. His work contributes to advancing both theoretical understanding and real-world deployment of AI technologies.
 An accomplished author, Giacomo has written extensively on industrial IoT and applied AI, demonstrating a strong commitment to translating advanced research into practical, impactful solutions [books](../book). His contributions are widely recognized across both industrial and academic communities.
 
-
+## Certifications
+* OCI Java 7
+* SAFE Agile
+* [DataBricks](https://credentials.databricks.com/profile/giacomoveneri849592/wallet)
+* [Tensorflow](https://www.coursera.org/account/accomplishments/certificate/DLEV3LYQ7KM9)
+* [NVIDIA](https://learn.nvidia.com/certificates?id=5e2f2d2d1c7d41bd9693e2a7282c867d)
+* [C3.ai](https://www.coursera.org/account/accomplishments/certificate/KA4ERTVD5VZR)
 
 ![Giacomo Veneri](/giacomoveneri.jpeg)
 
