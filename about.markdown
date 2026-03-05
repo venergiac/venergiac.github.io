@@ -21,23 +21,5 @@ An accomplished author, Giacomo has written extensively on industrial IoT and ap
 
 ![Giacomo Veneri](/giacomoveneri.jpeg)
 
-## Publications
-[scholar](https://scholar.google.it/citations?user=B40SHWAAAAAJ&hl=it)
 
-## GitHub
-[venergiac](https://github.com/venergiac)
-
-## LinkedIn
-[giacomoveneri](https://www.linkedin.com/in/giacomoveneri/)
-
-## Research Gate
-[giacomoveneri](https://www.researchgate.net/profile/Giacomo-Veneri)
-
-## Wikipedia
-[giacomoveneri](https://it.wikipedia.org/wiki/Veneri)
-
-## Substack
-[giacomoveneri](https://venergiac.substack.com/)
-
-## Blog
-[venergiac](https://venergiac.blogspot.com/)
+[scholar](https://scholar.google.it/citations?user=B40SHWAAAAAJ&hl=it) | [github](https://github.com/venergiac) | [linkedin](https://www.linkedin.com/in/giacomoveneri/) | [research gate](https://www.researchgate.net/profile/Giacomo-Veneri) | [wikipedia](https://it.wikipedia.org/wiki/Veneri) | [substack](https://venergiac.substack.com/) | [blog](https://venergiac.blogspot.com/) | [amazon](https://www.amazon.it/stores/author/B07L69LYRG) | [medium](https://medium.com/@venergiac) | [ORCID](https://orcid.org/0000-0001-9118-8982) | [iiot](https://iiotday.com/event-speakers/giacomo-veneri/) | [packt](https://www.packtpub.com/authors/giacomo-veneri?srsltid=AfmBOoorHkgAOcsy_U1jRwubzAQPoMeBb-V-Zi7rbGs0W79Vou1ePRBi)
