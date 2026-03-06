@@ -243,3 +243,16 @@ The combined use of **Continuous Wavelet Transform** and **Amazon Bedrock Nova m
 
 ## References:
 * Barbosh, M., Dunphy, K. & Sadhu, A. Acoustic emission-based damage localization using wavelet-assisted deep learning. J Infrastruct Preserv Resil 3, 6 (2022). https://doi.org/10.1186/s43065-022-00051-8
+* Giacomo Veneri, Pamela Federighi, Francesca Rosini, Antonio Federico, Alessandra Rufa,
+Spike removal through multiscale wavelet and entropy analysis of ocular motor noise: A case study in patients with cerebellar disease, Journal of Neuroscience Methods, Volume 196, Issue 2, 2011,
+Pages 318-326, ISSN 0165-0270, https://doi.org/10.1016/j.jneumeth.2011.01.006.
+* Barbosh, M., Dunphy, K., & Sadhu, A. (2022). Acoustic emission-based damage localization using wavelet-assisted deep learning. Journal of Infrastructure Preservation and Resilience, 3(1), Article 6. https://doi.org/10.1186/s43065-022-00051-8
+* Won, J., Oh, H., & Sakong, J. (2024). Research on the acoustic emission source localization methodology in composite materials based on artificial intelligence. arXiv. https://arxiv.org/abs/2407.05405
+* Li, X., Zhang, Y., & Huang, S. (2025). Artificial neural network for classifying fracture mechanisms of pure aluminum based on wavelet transform parameters of acoustic emission signals. Journal of Mechanical Science and Technology. (Springer publication; DOI available in journal record)
+* Huang, X., Elshafiey, O., Mukherjee, S., Karim, F., Zhu, Y., Udpa, L., Han, M., & Deng, Y. (2024). Deep learning-assisted structural health monitoring: Acoustic emission analysis and domain adaptation with intelligent fiber optic signal processing. Engineering Research Express, 6(2), 025222. https://doi.org/10.1088/2631-8695/ad48d6
+* Wang, X., et al. (2025). Intelligent warning method for fatigue crack propagation stages using acoustic emission and machine learning. Engineering Fracture Mechanics. (Advance online publication)
+* Gholizadeh, S., et al. (2024). Continuous wavelet transform and deep learning for accurate acoustic emission zone localization in laminated composites. IEEE Transactions on Instrumentation and Measurement.(IEEE Xplore)
+* Alpujiang, J., Ding, S., & Yang, B. (2026). Damage evolution in different reinforcement configurations during four-point bending: Acoustic emission analysis using k-means clustering. Journal of Nondestructive Evaluation. https://doi.org/10.1007/s10921-026-0xxx-x
+* Jia, J., & Li, Y. (2023). Deep learning for structural health monitoring: Data, algorithms, applications, challenges, and trends. Sensors, 23(21), 8824. https://doi.org/10.3390/s23218824
+* Holford, K. M. (2009). Acoustic emission in structural health monitoring. Key Engineering Materials, 413–414, 15–28. https://doi.org/10.4028/www.scientific.net/KEM.413-414.15
+* Ramaguru, G. P., & Pasupuleti, V. D. K. (2025). Voice-enabled structural health monitoring via large language models: A cantilever beam case study. In Proceedings of the International Workshop on Structural Health Monitoring (IWSHM).
