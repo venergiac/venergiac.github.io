@@ -92,16 +92,14 @@ The proposed architecture for anomaly detection is outlined below:
 
 Convert wave to CWT:
 
-``
+```
 import pywt
 import numpy as np
 import scipy.io.wavfile as wav
 
-def load_and_convert_wav_path(file_path:str, dest_path:str = "data/temp"):
+def load_and_convert_wav_path(file_path:str, dest_path:str = "temp"):
 
     # 1. Load the audio file
-    #file_path = 'data/pump/id_06/abnormal/00000097.wav'
-    #file_path = 'data/pump/id_06/normal/00001033.wav'
     sampling_rate, data = wav.read(file_path)
     
     # Use only one channel if stereo
@@ -129,13 +127,11 @@ def load_and_convert_wav_path(file_path:str, dest_path:str = "data/temp"):
     plt.show()
 
     return image_file_path
-``
+```
 
 Now you can use the following prompting with Nova Lite
 
-``
-
-
+```
 full_user_task = f"""TASK: Anomaly detection by comparison ({str(l)} normal references + 1 target).
         Return ONLY JSON:
         {{
@@ -153,11 +149,11 @@ full_user_task = f"""TASK: Anomaly detection by comparison ({str(l)} normal refe
     INSTRUCTIONS:
        Is target sound anomalous?
        """
-``
+```
 
 Now let's compose message for each image references (normal) and the target image (normal or abnormal)
 
-``
+```
     content_json=[]
     for i,image_ref in enumerate( image_refs):
         content_json.append({ "text": f"Reference {i} (NORMAL):" })
@@ -187,12 +183,12 @@ Now let's compose message for each image references (normal) and the target imag
                   "content":content_json
                 }
             ]
-``
+```
 
 Finally call bedrock AWS Nova lite:
 
 
-``
+```
 import boto3
 
 MODEL_ID = "eu.amazon.nova-2-lite-v1:0"
@@ -215,17 +211,18 @@ response = client.converse(
             "topP": 0.9,
         }
     )
-``
+```
 
 Below an example of CWT of an  abnormal sound:
 
-![sound](/images/cwt-pump.jpg)
+![sound](/images/cwt-pump.png)
 
 
 Below the output:
-``
+
+```
 {'anomalies': 'yes', 'findings': [{'description': 'The target spectrogram shows a noticeable reduction in the intensity and frequency of vertical lines compared to the normal references. This suggests a potential anomaly in the sound characteristics, possibly indicating a mechanical issue or abnormal operation in the pump.'}]}
-``
+```
 
 Using pump dataset I got 94% accuracy.
 
@@ -244,3 +241,5 @@ These aspects are particularly relevant in real industrial environments, as also
 
 The combined use of **Continuous Wavelet Transform** and **Amazon Bedrock Nova multimodal models** represents a powerful and modern approach to industrial sound analysis. The MIMII Dataset provides a solid and realistic foundation for experimenting with these techniques and evaluating their effectiveness in predictive maintenance scenarios.
 
+## References:
+* Barbosh, M., Dunphy, K. & Sadhu, A. Acoustic emission-based damage localization using wavelet-assisted deep learning. J Infrastruct Preserv Resil 3, 6 (2022). https://doi.org/10.1186/s43065-022-00051-8
