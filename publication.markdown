@@ -4,6 +4,34 @@ title: My Publications
 permalink: /publication/
 ---
 
+## 2025
+
+## Enhancing Enterprise-Wide Information Retrieval through RAG Systems Techniques, Evaluation, and Scalable Deployment
+
+ADIPEC 2025
+
+[Document](/documents/soma2025.pdf)
+
+Organizations in the Oil and Gas Industry deal with a vast repository of knowledge dispersed across various structured and unstructured data sources. The process of retrieving information for a particular task can be time-consuming and necessitates the involvement of multiple subject matter experts. Large Language Models (LLMs) supported by Retrieval Augmented Generation (RAG) systems can help expedite information retrieval and processing. However, Enterprise-scale LLM implementation faces challenges, that include confidentiality, scalability, handling hallucinations, handling domain data, feedback, and model improvement. In this technical paper, we describe an optimized RAG system using LLMs for accelerated information retrieval from vast, highly confidential sources. We present the software architecture, the data flow that facilitates the application’s ability to gather feedback for model fine-tuning and the techniques used to optimize our solution for accuracy, scalability, throughput. In the proposed architecture, the LLM-as-a-service component generated an average throughput of 989 tokens per second for summarization tasks involving up to 2500 tokens per request when run on A100 GPUs (40 GB). In the Oil & Gas Industry, the application allows Field Service Engineers to directly retrieve technical details about machinery, details from maintenance manuals etc and helps design teams to speed up information retrieval.  This has resulted in an estimated improved productivity in the range of 20% and a positive impact on Customer Relationship, Time to Serve and Cost of Quality.
+
+!(architecture)[/images/soma2025.png]
+
+{% highlight bibtex %}
+@proceedings{10.2118/222032-MS,
+    author = {Palaniappan, Somasundaram and Mali, Rohit and Cuomo, Luca and Vitale, Mauro and Youssef, Ali and Madathil, Athira Puthanveetil and Murugesan, Malathi and Bettini, Alessandro and De Magistris, Giovanni and Veneri, Giacomo},
+    title = {Enhancing Enterprise-Wide Information Retrieval through RAG Systems Techniques, Evaluation, and Scalable Deployment},
+    volume = {ADIPEC},
+    series = {Abu Dhabi International Petroleum Exhibition and Conference},
+    pages = {D011S020R002},
+    year = {2024},
+    month = {11},
+    abstract = {Organizations in the Oil and Gas Industry deal with a vast repository of knowledge dispersed across various structured and unstructured data sources. The process of retrieving information for a particular task can be time-consuming and necessitates the involvement of multiple subject matter experts. Large Language Models (LLMs) supported by Retrieval Augmented Generation (RAG) systems can help expedite information retrieval and processing. However, Enterprise-scale LLM implementation faces challenges, that include confidentiality, scalability, handling hallucinations, handling domain data, feedback, and model improvement.In this technical paper, we describe an optimized RAG system using LLMs for accelerated information retrieval from vast, highly confidential sources. We present the software architecture, the data flow that facilitates the application's ability to gather feedback for model fine-tuning and the techniques used to optimize our solution for accuracy, scalability, throughput. In the proposed architecture, the LLM-as-a-service component generated an average throughput of 989 tokens per second for summarization tasks involving up to 2500 tokens per request when run on A100 GPUs (40 GB). In the Oil \&amp; Gas Industry, the application allows Field Service Engineers to directly retrieve technical details about machinery, details from maintenance manuals etc and helps design teams to speed up information retrieval. This has resulted in an estimated improved productivity in the range of 20\% and a positive impact on Customer Relationship, Time to Serve and Cost of Quality.},
+    doi = {10.2118/222032-MS},
+    url = {https://doi.org/10.2118/222032-MS},
+    eprint = {https://onepetro.org/SPEADIP/proceedings-pdf/24ADIP/24ADIP/D011S020R002/3840835/spe-222032-ms.pdf},
+}
+{% endhighlight %}
+
 ## 2024
 
 ### Leveraging the Regularizing Effect of Mixing Industrial and Open Source Data to Prevent Overfitting of LLM Fine Tuning
