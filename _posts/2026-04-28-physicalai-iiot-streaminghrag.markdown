@@ -12,6 +12,7 @@ The paper introduces the LLM-assisted Edge Intelligence (LEI) framework, a novel
 Article on [https://venergiac.substack.com/p/llm-assisted-agentic-edge-intelligence](https://venergiac.substack.com/p/llm-assisted-agentic-edge-intelligence). 
 
 Clone code from
+
       git clone https://github.com/venergiac/iiot-LEI-demonstrator
       python generate_data.py
       docker-compose up --build
