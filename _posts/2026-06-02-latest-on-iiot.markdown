@@ -7,7 +7,7 @@ categories: article
 
 # Industrial AI 2026: How IoT, Machine Learning, and Privacy Are Transforming Industry
 
-## Summary of recent scientific articles and connections to Giacomo Veneri's work
+## Summary of recent scientific articles
 
 ---
 
