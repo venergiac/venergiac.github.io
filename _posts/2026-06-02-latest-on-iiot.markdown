@@ -5,8 +5,6 @@ date:   2026-06-02 00:00:00 +0100
 categories: article
 ---
 
-# Industrial AI 2026: How IoT, Machine Learning, and Privacy Are Transforming Industry
-
 ## Summary of recent scientific articles
 
 ---
