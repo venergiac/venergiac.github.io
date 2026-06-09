@@ -1,4 +1,5 @@
 ---
+---
 layout: post
 title:  "Industrial AI 2026: How IoT, Machine Learning, and Privacy Are Transforming Industry"
 date:   2026-06-02 00:00:00 +0100
