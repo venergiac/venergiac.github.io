@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Version 0.1 of OPCUA2MCP IIoT Bridge - released"
+title:  "Version 0.1 of OPCUA2MCP IIoT Bridge - released - connects to an OPC UA server, reads sensor values defined in YAML configuration, evaluates sensor health against configurable thresholds, caches readings, and publishes the results through a FastMCP server"
 date:   2026-06-09 00:00:00 +0100
 categories: article
 ---

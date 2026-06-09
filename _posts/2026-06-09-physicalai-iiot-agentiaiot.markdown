@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Agentic AIOT"
+title:  "Agentic AIOT : convergence of Agentic AI, the Industrial Internet of Things (IIoT)"
 date:   2026-06-08 00:00:00 +0100
 categories: article
 ---
