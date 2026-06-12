@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Not Only MCP"
+title:  "Not Only MCP: MCP, UTCP, A2A, ACF, ANP, AGP, UCP, AP2"
 date:   2026-06-10 00:00:00 +0100
 categories: article
 ---
@@ -72,8 +72,6 @@ AP2 adds a financial layer, supporting **payment authorization, auditing, and tr
 ## 🚀 Conclusion
 
 Modern AI systems are evolving toward **interoperable, multi-agent platforms**. Rather than choosing a single protocol, real-world architectures combine them into a layered stack:
-
-
 
 
 ![/images/ai-agent-protocols.png](/images/ai-agent-protocols.png)
