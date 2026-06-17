@@ -15,4 +15,4 @@ categories: article
 
 It was a truly valuable opportunity to engage in insightful discussions with leading experts from industry and representatives from the Italian Government, including AGID and Lorenzo Basso. The exchange of perspectives on digital transformation, infrastructure evolution, and the role of data and AI in enabling smarter and more resilient systems was particularly inspiring.
 
-!(/images/2026-06-16_8258.jpg)[/images/2026-06-16_8258.jpg]
+![Giacomo Veneri](/images/2026-06-16_8258.jpg)
