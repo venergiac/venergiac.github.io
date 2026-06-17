@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Industrial AI 2026: How IoT, Machine Learning, and Are Transforming Industry in Italy"
-date:   2026-06-017 00:00:00 +0100
+date:   2026-06-16 00:00:00 +0100
 categories: article
 ---
 
