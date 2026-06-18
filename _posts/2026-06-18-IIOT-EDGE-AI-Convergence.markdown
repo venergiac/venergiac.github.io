@@ -40,13 +40,15 @@ A compelling example is the Stack4Things (S4T) framework, an open-source platfor
 
 ## Predictive Maintenance and Industrial IoT
 
-Giacomo Veneri, a leading expert in Industrial IoT and AI, has extensively documented the transformation of manufacturing through intelligent systems. His seminal work, "Hands-On Industrial Internet of Things: Build Robust Industrial IoT Infrastructure by Using the Cloud and Artificial Intelligence" (2nd edition, 2024) [https://amzn.eu/d/0icMWgKA](https://amzn.eu/d/0icMWgKA), provides practical guidance for implementing these technologies at scale.
+Giacomo Veneri (me), a leading expert in Industrial IoT and AI, has extensively documented the transformation of manufacturing through intelligent systems. His seminal work, "Hands-On Industrial Internet of Things: Build Robust Industrial IoT Infrastructure by Using the Cloud and Artificial Intelligence" (2nd edition, 2024) [https://amzn.eu/d/0icMWgKA](https://amzn.eu/d/0icMWgKA), provides practical guidance for implementing these technologies at scale.
 
-Veneri's research demonstrates how AI-powered IoT systems enable manufacturers to transition from reactive maintenance (fixing problems after they occur) to predictive maintenance (preventing problems before they happen). By analyzing sensor data from machinery, AI models can identify subtle patterns that precede failures, allowing maintenance teams to intervene proactively.
+![Giacomo Veneri](/images/2026-06-16_8258.jpg)
+
+My research demonstrates how AI-powered IoT systems enable manufacturers to transition from reactive maintenance (fixing problems after they occur) to predictive maintenance (preventing problems before they happen). By analyzing sensor data from machinery, AI models can identify subtle patterns that precede failures, allowing maintenance teams to intervene proactively.
 
 ## Smart Cities and Urban Intelligence
 
-The city of Caltanissetta, Sicily, provides a real-world case study of integrated IoT-edge-cloud-AI systems. The municipality has deployed a comprehensive smart city infrastructure utilizing LoRaWAN (Long-Range Wide-Area Network) for low-power, long-range communication. This system monitors traffic flow, parking availability, and environmental conditions in real-time.
+The (city of Caltanissetta, Sicily, provides a real-world case study of integrated IoT-edge-cloud-AI systems)[https://www.mdpi.com/1424-8220/25/6/1763]. The municipality has deployed a comprehensive smart city infrastructure utilizing LoRaWAN (Long-Range Wide-Area Network) for low-power, long-range communication. This system monitors traffic flow, parking availability, and environmental conditions in real-time.
 
 The architecture combines LoRaWAN's efficiency with LTE/4G's bandwidth, creating a resilient dual-communication framework. Edge devices process sensor data locally, transmitting only relevant insights to the cloud. Elastic-Kibana dashboards provide city administrators with real-time visualizations of urban dynamics, enabling data-driven decision-making.
 
@@ -128,4 +130,3 @@ As we progress through 2026 and beyond, the organizations that master the integr
 4. **Real-world applications** in manufacturing, smart cities, and energy management demonstrate the practical value of integrated AI-IoT-edge systems
 5. **Standardization and ethical considerations** are essential for sustainable, trustworthy deployment at scale
 
-![Giacomo Veneri](/images/2026-06-16_8258.jpg)
