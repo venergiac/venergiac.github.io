@@ -124,13 +124,13 @@ As we progress through 2026 and beyond, the organizations that master the integr
 
 # Key Takeaways
 
-1.**Edge computing reduces latency and bandwidth requirements** by processing data at the source rather than transmitting everything to the cloud
+1. **Edge computing reduces latency and bandwidth requirements** by processing data at the source rather than transmitting everything to the cloud
 
-2.**Hybrid architectures combining cloud training with edge inference** provide optimal balance between model sophistication and real-time responsiveness
+2. **Hybrid architectures combining cloud training with edge inference** provide optimal balance between model sophistication and real-time responsiveness
 
-3.**Federated learning enables privacy-preserving AI** by training models across decentralized devices without centralizing sensitive data
+3. **Federated learning enables privacy-preserving AI** by training models across decentralized devices without centralizing sensitive data
 
-4.**Real-world applications** in manufacturing, smart cities, and energy management demonstrate the practical value of integrated AI-IoT-edge systems
+4. **Real-world applications** in manufacturing, smart cities, and energy management demonstrate the practical value of integrated AI-IoT-edge systems
 
-5.**Standardization and ethical considerations** are essential for sustainable, trustworthy deployment at scale
+5. **Standardization and ethical considerations** are essential for sustainable, trustworthy deployment at scale
 
