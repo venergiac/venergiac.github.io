@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Convergence of AI and IoT: Transforming Industries Through Intelligent Edge Computing"
-date:   2026-06-17 12:00:00 +0100
+date:   2026-06-18 12:00:00 +0100
 categories: article
 ---
 
@@ -128,3 +128,4 @@ As we progress through 2026 and beyond, the organizations that master the integr
 4. **Real-world applications** in manufacturing, smart cities, and energy management demonstrate the practical value of integrated AI-IoT-edge systems
 5. **Standardization and ethical considerations** are essential for sustainable, trustworthy deployment at scale
 
+![Giacomo Veneri](/images/2026-06-16_8258.jpg)
