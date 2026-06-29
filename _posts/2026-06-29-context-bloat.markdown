@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Context Bloat"
+title:  "Context Bloat and Context Engineering"
 date:   2026-06-28 12:00:00 +0100
 categories: article
 ---
