@@ -3,8 +3,53 @@ layout: page
 title: My Publications
 permalink: /publication/
 ---
+## 2026
+
+## Challenging the Dynamics of Time: Evaluating Real-World-Based Time Series Data Generation
+
+Operations Research and Data Analytics: Current Trends and Future Perspectives: Selected Papers from International Conference on Industrial Engineering and Analytics (ICONIEA) 2024
+
+Estimating accurate nitrogen oxides (NOx) emissions with advanced analysis tools is essential to monitor the pollution and the health condition of a turbomachine. Furthermore, providing advanced analysis tools that are compliant with environmental safety laws is fundamental. While machine learning models show promising solutions in estimating particle pollution levels through virtual sensor modeling of turbomachines, the scarcity and quality of real-world data pose significant challenges. To address these challenges, our study focuses on evaluating the performance of time series generative models on the turbomachinery sensor data generation quality using a comprehensive set of quantitative and qualitative metrics. To this end, we propose a task-specific metric to assess the effectiveness of the generated sensor data in supporting our industrial application. Moreover, we conduct a critical analysis regarding the evaluation metrics of the commonly proposed methods in the literature, for validating and assessing the effectiveness of the generative models. The analysis highlights the limitations of these metrics, as they do not consider the temporal correlations present in time series data, heavily rely on the specific implementation of the evaluation model, and do not provide a robust description of the overall model performance. By delving into those concerns, we believe that this work contributes to the advancement of knowledge on temporal synthetic data generation, stimulating discussion in how it can be reliably evaluated in real-world settings.
+
+{% highlight bibtex %}
+@inproceedings{valanzano2026challenging,
+  title={Challenging the Dynamics of Time: Evaluating Real-World-Based Time Series Data Generation},
+  author={Valanzano, Anna and Strazzera, Luca and Gholkar, Smita and Kumar, Kanhaiya and Veneri, Giacomo},
+  booktitle={Operations Research and Data Analytics: Current Trends and Future Perspectives: Selected Papers from International Conference on Industrial Engineering and Analytics (ICONIEA) 2024},
+  pages={47--56},
+  year={2026},
+  organization={Springer}
+}
+{% endhighlight %}
+
 
 ## 2025
+
+## Agentic AI on Customer Dashboards in Remote Monitoring and Diagnostic Services
+
+ADIPEC 2025
+
+The Oil & Gas industry is increasingly confronted with stringent requirements related to process reliability, operational efficiency, and maintenance cost reduction. In this context, companies are actively seeking advanced technological solutions capable of monitoring the performance of critical process equipment and enabling rapid, informed decision-making.
+
+Agentic AI systems offer a promising response to these demands by embedding autonomous, goal-directed intelligence into digital service platforms. These systems not only interpret and synthesize data from multiple sources but also provide contextualized insights and proactive recommendations through natural language interaction. Their ability to support fast and accurate diagnostics, reduce time spent on manual analysis, and minimize equipment downtime positions them as strategic enablers in the pursuit of operational excellence and cost-effective maintenance.
+
+Remote Monitoring & Diagnostics (RM&D) systems for high-performance turbomachinery traditionally rely on passive Customer Dashboards that offer a wealth of valuable information that can significantly aid in analyzing the operational conditions and health of equipment. However, retrieving and interpreting this data is often challenging due to the presence of multiple tabs and the complexity of the analyses required to extract meaningful insights. Conducting accurate analyses may demand expert knowledge, and the time spent navigating the dashboard or identifying the appropriate analytical approach could be better allocated to more strategic tasks. Many users may experience a sense of confusion or frustration when unable to locate the information they need. To address these challenges, we propose the integration of single-agentic AI systems capable of aggregating, summarizing, and connecting data from multiple sources, thereby streamlining the analytical process and significantly reducing cognitive load and accelerating decision-making in critical turbomachinery applications. The proposed system addresses critical security challenges through a novel architectural approach that completely decouples authorization logic from AI components via deterministic orchestration layers. This implementation demonstrates that organizations can deploy advanced AI capabilities in sensitive industrial environments without compromising intellectual property or data confidentiality. Our system transforms operator interaction from static data consumption to dynamic dialogue and establishes a foundation for secure AI integration in industrial monitoring systems while providing practical guidance for enterprise AI deployment in regulated environments.
+
+{% highlight bibtex %}
+@proceedings{10.2118/229571-MS,
+    author = {Nuti, Laura and Veneri, Giacomo and Porciani, Daniele and Catalano, Leonardo and Iasparro, Domenico and Lauriola, Michele and Capanni, Marco and Vitale, Mauro},
+    title = {Agentic AI on Customer Dashboards in Remote Monitoring and Diagnostic Services},
+    volume = {ADIPEC},
+    series = {Abu Dhabi International Petroleum Exhibition and Conference},
+    pages = {D021S080R004},
+    year = {2025},
+    month = {11},
+    abstract = {The Oil \&amp; Gas industry is increasingly confronted with stringent requirements related to process reliability, operational efficiency, and maintenance cost reduction. In this context, companies are actively seeking advanced technological solutions capable of monitoring the performance of critical process equipment and enabling rapid, informed decision-making.Agentic AI systems offer a promising response to these demands by embedding autonomous, goal-directed intelligence into digital service platforms. These systems not only interpret and synthesize data from multiple sources but also provide contextualized insights and proactive recommendations through natural language interaction. Their ability to support fast and accurate diagnostics, reduce time spent on manual analysis, and minimize equipment downtime positions them as strategic enablers in the pursuit of operational excellence and cost-effective maintenance.Remote Monitoring \&amp; Diagnostics (RM\&amp;D) systems for high-performance turbomachinery traditionally rely on passive Customer Dashboards that offer a wealth of valuable information that can significantly aid in analyzing the operational conditions and health of equipment. However, retrieving and interpreting this data is often challenging due to the presence of multiple tabs and the complexity of the analyses required to extract meaningful insights. Conducting accurate analyses may demand expert knowledge, and the time spent navigating the dashboard or identifying the appropriate analytical approach could be better allocated to more strategic tasks. Many users may experience a sense of confusion or frustration when unable to locate the information they need. To address these challenges, we propose the integration of single-agentic AI systems capable of aggregating, summarizing, and connecting data from multiple sources, thereby streamlining the analytical process and significantly reducing cognitive load and accelerating decision-making in critical turbomachinery applications. The proposed system addresses critical security challenges through a novel architectural approach that completely decouples authorization logic from AI components via deterministic orchestration layers. This implementation demonstrates that organizations can deploy advanced AI capabilities in sensitive industrial environments without compromising intellectual property or data confidentiality. Our system transforms operator interaction from static data consumption to dynamic dialogue and establishes a foundation for secure AI integration in industrial monitoring systems while providing practical guidance for enterprise AI deployment in regulated environments.},
+    doi = {10.2118/229571-MS},
+    url = {https://doi.org/10.2118/229571-MS},
+    eprint = {https://onepetro.org/SPEADIP/proceedings-pdf/25ADIP/25ADIP/D021S080R004/5285627/spe-229571-ms.pdf},
+}
+{% endhighlight bibtex %}
 
 ## Enhancing Enterprise-Wide Information Retrieval through RAG Systems Techniques, Evaluation, and Scalable Deployment
 
