@@ -38,7 +38,7 @@ repo_theme_light: default       # https://github.com/anuraghazra/github-readme-s
 repo_theme_dark: dark
 
 # Build settings
-theme: minima
+#theme: minima
 remote_theme: pages-themes/modernist@v0.2.0
 
 # Plug-ins
