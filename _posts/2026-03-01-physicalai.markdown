@@ -128,4 +128,3 @@ Based on:
 - [Braga-Neto 2024](https://link.springer.com/chapter/10.1007/978-3-031-60950-3_12)
 - <https://developer.nvidia.com/blog/using-physics-informed-deep-learning-for-transport-in-porous-media/>
 - <https://medium.com/data-science/physics-guided-neural-networks-pgnns-8fe9dbad9414>
-

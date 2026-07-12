@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "GASTECH 2025"
+date:   2025-07-11 00:00:00 +0100
+categories: article
+---
+
+
+Gastech 2025 was the world's leading energy event, held at Fiera Milano from September 9 to 12, 2025. The event attracted over 50,000 professionals and 1,000 exhibitors, and focused on energy transition, LNG, hydrogen, climate technology, and artificial intelligence.
+
+I'm pleased to have brought and presented Baker Hughes' unmanned inspection platform.
+
+![Giacomo Veneri](/images/1761650406227.jpg)

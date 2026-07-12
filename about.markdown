@@ -19,7 +19,7 @@ An accomplished author, Giacomo has written extensively on industrial IoT and ap
 * [NVIDIA](https://learn.nvidia.com/certificates?id=5e2f2d2d1c7d41bd9693e2a7282c867d)
 * [C3.ai](https://www.coursera.org/account/accomplishments/certificate/KA4ERTVD5VZR)
 
-![Giacomo Veneri](/giacomoveneri.jpeg)
+![Giacomo Veneri](/images/gv_at_desk.png)
 
 
 [scholar](https://scholar.google.it/citations?user=B40SHWAAAAAJ&hl=it) \| [github](https://github.com/venergiac) \| [linkedin](https://www.linkedin.com/in/giacomoveneri/) \| [research gate](https://www.researchgate.net/profile/Giacomo-Veneri) \| [wikipedia](https://it.wikipedia.org/wiki/Veneri) \| [substack](https://venergiac.substack.com/) \| [blog](https://venergiac.blogspot.com/) \| [amazon](https://www.amazon.it/stores/author/B07L69LYRG) \| [medium](https://medium.com/@venergiac) \| [ORCID](https://orcid.org/0000-0001-9118-8982) \| [iiot](https://iiotday.com/event-speakers/giacomo-veneri/) \| [packt](https://www.packtpub.com/authors/giacomo-veneri?srsltid=AfmBOoorHkgAOcsy_U1jRwubzAQPoMeBb-V-Zi7rbGs0W79Vou1ePRBi) \| [google](https://share.google/rGPH1hehtYt2BLkWS) \| [google books](https://share.google/U2FNWJa4pSVPgw5gz)
