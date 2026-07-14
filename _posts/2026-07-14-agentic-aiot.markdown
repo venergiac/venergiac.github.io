@@ -20,5 +20,5 @@ As edge computing becomes more powerful, intelligent agents can move closer to t
 Agentic AIoT is not just about connecting things—it is about creating autonomous systems that understand, collaborate, and act to deliver measurable business value.
 
 <video width="320" height="240" controls>
-  <source src="/images/Agentic AI an IOT.mp4" type="video/mp4">
+  <source src="/images/agenticaiot.mp4" type="video/mp4">
 </video>
