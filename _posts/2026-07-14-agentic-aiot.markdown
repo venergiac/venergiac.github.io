@@ -19,4 +19,6 @@ Autonomous root cause analysis, leveraging multimodal data from sensors, logs, d
 As edge computing becomes more powerful, intelligent agents can move closer to the physical world, enabling faster decisions, improved resilience, and reduced cloud dependency. This marks the beginning of a new era where connected devices are no longer passive data sources but active participants in operational workflows.
 Agentic AIoT is not just about connecting things—it is about creating autonomous systems that understand, collaborate, and act to deliver measurable business value.
 
-![](/images/Agentic AI an IOT.mp4)
+<video width="320" height="240" controls>
+  <source src="/images/Agentic AI an IOT.mp4" type="video/mp4">
+</video>
