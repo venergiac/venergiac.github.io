@@ -16,6 +16,8 @@ Autonomous root cause analysis, leveraging multimodal data from sensors, logs, d
 * Field service assistance, providing engineers with contextual recommendations, procedures, and spare-part information.
 * Energy and reliability optimization, balancing efficiency, cost, and operational risk in real time.
 
+![Agentic AIOT](/images/agenticaiot.png)
+
 As edge computing becomes more powerful, intelligent agents can move closer to the physical world, enabling faster decisions, improved resilience, and reduced cloud dependency. This marks the beginning of a new era where connected devices are no longer passive data sources but active participants in operational workflows.
 Agentic AIoT is not just about connecting things—it is about creating autonomous systems that understand, collaborate, and act to deliver measurable business value.
 
