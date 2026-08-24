@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Special Issue in Journal of AI on Non-destructive Testing (MDPI)"
+date:   2026-08-23 00:00:00 +0100
+categories: article
+---
+
+
+I am pleased to announce the launch of a new Special Issue in Journal of Non-destructive Testing (MDPI), dedicated to advancing research and innovation in #Non-Destructive Testing, #ConditionMonitoring, #ArtificialIntelligence, #DigitalTwins, and Intelligent Inspection Technologies.
+
+![ndt]{/images/ndt.webp}
+
+As Guest Editor, I warmly invite researchers, industry experts, and practitioners to submit their latest contributions and share novel methodologies, industrial applications, and emerging trends that are shaping the future of asset integrity and reliability.
+This Special Issue aims to bring together cutting-edge research from academia and industry, fostering collaboration across disciplines and accelerating the adoption of advanced inspection and diagnostic technologies in real-world applications.
+
+📢 Submission details and scope:  [https://www.mdpi.com/journal/ndt/special_issues/AVBBCL4P98](https://www.mdpi.com/journal/ndt/special_issues/AVBBCL4P98)
+
+I would greatly appreciate it if you could share this opportunity within your professional network. I look forward to receiving your valuable contributions and engaging with the community on this exciting topic.
+
+#NDT #NonDestructiveTesting #ArtificialIntelligence #DigitalTwin #ConditionMonitoring #PredictiveMaintenance #Industry40 #IndustrialAI #AssetIntegrity #ReliabilityEngineering #MachineLearning #SensorAnalytics #InspectionTechnologies #Research #Engineering #MDPI #SpecialIssue
