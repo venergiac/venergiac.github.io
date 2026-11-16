@@ -27,5 +27,5 @@ categories: article
     url = {https://doi.org/10.2118/235485-MS},
     eprint = {https://onepetro.org/SPEADIP/proceedings-pdf/26ADIP/26ADIP/D021S043R005/5467972/spe-235485-ms.pdf},
 }
-{% endhighlight %}
+{%  endhighlight bibtex %}
 
