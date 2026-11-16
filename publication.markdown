@@ -25,7 +25,7 @@ The objective of this paper is to reframe AI-enabled predictive maintenance from
     url = {https://doi.org/10.2118/235485-MS},
     eprint = {https://onepetro.org/SPEADIP/proceedings-pdf/26ADIP/26ADIP/D021S043R005/5467972/spe-235485-ms.pdf},
 }
-{% highlight %}
+{% endhighlight %}
 
 ## Challenging the Dynamics of Time: Evaluating Real-World-Based Time Series Data Generation
 
