@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Special Issue in Journal of AI on Non-destructive Testing (MDPI)"
+title:  "Patent RCA with LLM"
 date:   2026-07-27 00:00:00 +0100
 categories: article
 ---
